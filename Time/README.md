@@ -69,34 +69,5 @@ answer there Questions like:
 
 This track feeds back into Track 1 when you’re ready.
 
-### Concrete next step (no abstractions yet)
-Let’s do one very grounded thing first.
-Answer this in your own words (bullet points are perfect):
-
-1. In your working design, what are the primitives?
-
-For example (don’t copy, just react):
-[] year = ?
-[] month = ?
-[] day = ?
-[] is “month” required?
-[] is “week” real or derived?
-[]  does a date exist without a calendar?
-
-Just list what exists in your head right now.
-
-2. What broke conceptually? (one sentence each)
-No essays. Just pressure points:
-[] “The calendar is broken because ___”
-[] “The Gregorian assumption I can’t tolerate anymore is ___”
-
-3. One constraint
-Finish this sentence:
-[] “If I don’t build this in Java, I will be annoyed because ___.”
-This tells me how strict / clean / experimental the architecture should be.
-
-Once you answer those, I can:
-? sketch a Java package structure
-? propose interfaces vs concrete classes
-? help you decide what to freeze and what to keep fluid
-" and walk with you line-by-line if you want
+### Why Java?
+I am building it in Java, because... I need to practice Java? Java hoolib veel tyypidest.
