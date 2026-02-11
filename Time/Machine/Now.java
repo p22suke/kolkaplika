@@ -1,4 +1,5 @@
 package Machine;
+
 import java.time.Instant;
 
 public class Now {
@@ -13,7 +14,7 @@ public class Now {
     }
 
     public void displayNow() {
-        System.out.println("Instant now: " + now);//HETK INFONA EKRAANIL
+        System.out.println("now: " + now);//HETK INFONA EKRAANIL
     }
 
     public static void main(String[] args) {
